@@ -202,7 +202,7 @@ footer{
         flex-direction: column;
     }
     .title{
-        font-size: 40px;
+        font-size: 30px;
         margin-bottom: 50px;
     }
     .title-banner img{
@@ -222,7 +222,7 @@ footer{
         height: 100%;
         width: 100%;
         margin: 0;
-        padding: 20px;
+        padding: 10px;
     }
     .Highlights-title{
         width: 329px;
@@ -248,16 +248,5 @@ footer{
     .footer-1 img{
         width: 271px;
         height: 63px;
-    }
-}
-@media only screen and (max-width:992px){
-    nav{
-        display: none;
-    }
-    .container{
-        height: 100%;
-        width: 100%;
-        padding: 10px;
-        display: flex;
     }
 }
